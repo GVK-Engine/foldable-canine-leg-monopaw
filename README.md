@@ -1,5 +1,5 @@
 # 🐾 MonoPaw – Single-Leg Canine Gait Robot  
-**Course:** Foldable Robotics (RAS 598)  
+**Course:** Foldable Robotics (RAS 557)  
 **Team Members:** Vamshikrishna Gadde, Tirth Kamdar
 **Institution:** Arizona State University 
 ![Robot Type](https://img.shields.io/badge/Robot-Single_Leg_Canine-orange)
