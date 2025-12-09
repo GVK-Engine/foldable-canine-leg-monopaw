@@ -5,7 +5,6 @@
 ![Robot Type](https://img.shields.io/badge/Robot-Single_Leg_Canine-orange)
 ![Domain](https://img.shields.io/badge/Domain-Legged_Locomotion-brightgreen)
 ![Fabrication](https://img.shields.io/badge/Fabrication-Foldable_Robotics-yellow)
-![Simulation](https://img.shields.io/badge/Simulation-MATLAB_/_Simulink-blue)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
