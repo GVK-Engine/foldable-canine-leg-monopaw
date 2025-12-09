@@ -57,16 +57,16 @@ MonoPaw-Canine-Gait-Robot/
 ├── LICENSE
 
 ├── docs/
-│   ├── MonoPaw_Final_Report.pdf        # link: REPORT_LINK_HERE
-│   └── MonoPaw_Presentation.pdf        # link: SLIDES_LINK_HERE
+│   ├── MonoPaw_Final_Report.pdf        
+│   └── MonoPaw_Presentation.pdf        
 
 ├── cad/
-│   ├── leg_layer_rigid.dxf             # (https://drive.google.com/file/d/1fpy-IeiIvQU_QDXmIn9awjKsmJiABsrh/view?usp=drive_link)
+│   ├── leg_layer_rigid.dxf             
 │   ├── leg_layer_flex.dxf
 │   ├── leg_layer_adhesive.dxf
 │   └── cart_panels.dxf
 
 
 └── media/
-    ├── images/                         # https://drive.google.com/drive/folders/1Jsp6yqqxeOgSJ9IucUhM0W4xEi8tRZYP?usp=drive_link
-    └── videos/                         # https://drive.google.com/drive/folders/1aBIUWjvPDlWAlErf96tD8eg0cyjrpQ81?usp=sharing
+    ├── images/                       
+    └── videos/                         
