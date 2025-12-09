@@ -33,18 +33,19 @@ The main goals are:
 📄 **Full documentation:**
 
 - Final Report: `REPORT_LINK_HERE`  
-- Presentation Slides: `SLIDES_LINK_HERE`  
-
+- Presentation Slides: [Google Slides](https://docs.google.com/presentation/d/1pMKry9zL3wVUV_Ld6DZ8tjCflVTVhPLoqp3WUJ9W67Y/edit?usp=sharing)
 
 ## 🔗 Quick Links
 
 
-- 📄 **Final Report:** `REPORT_LINK_HERE`  
-- 🖼️ **Final Presentation Slides:** `https://docs.google.com/presentation/d/1pMKry9zL3wVUV_Ld6DZ8tjCflVTVhPLoqp3WUJ9W67Y/edit?usp=sharing`   
-- 📐 **DXF Geometry (Leg + Cart):** `https://drive.google.com/file/d/1fpy-IeiIvQU_QDXmIn9awjKsmJiABsrh/view?usp=drive_link`    
-- 📊 **Results – Plots & Graphs:** `https://drive.google.com/drive/folders/1Jsp6yqqxeOgSJ9IucUhM0W4xEi8tRZYP?usp=drive_link`  
-- 🤖 **Prototype Photos:** `https://drive.google.com/drive/folders/1aBIUWjvPDlWAlErf96tD8eg0cyjrpQ81?usp=sharing`  
-- 🎥 **Demo Video(s):** `https://drive.google.com/drive/folders/1TzrLLGGUL38yIt5wSvSO4MUmN1KgDojz?usp=sharing`  
+## 🔗 Quick Links
+
+- 📄 **Final Report:** [Final Report (PDF)](REPORT_LINK_HERE)
+- 🖼️ **Final Presentation Slides:** [Google Slides](https://docs.google.com/presentation/d/1pMKry9zL3wVUV_Ld6DZ8tjCflVTVhPLoqp3WUJ9W67Y/edit?usp=sharing)
+- 📐 **DXF Geometry (Leg + Cart):** [DXF – Google Drive](https://drive.google.com/file/d/1fpy-IeiIvQU_QDXmIn9awjKsmJiABsrh/view?usp=drive_link)
+- 📊 **Results – Plots & Graphs:** [Results Folder](https://drive.google.com/drive/folders/1Jsp6yqqxeOgSJ9IucUhM0W4xEi8tRZYP?usp=drive_link)
+- 🤖 **Prototype Photos:** [Prototype Images](https://drive.google.com/drive/folders/1aBIUWjvPDlWAlErf96tD8eg0cyjrpQ81?usp=sharing)
+- 🎥 **Demo Video(s):** [Demo Videos Folder](https://drive.google.com/drive/folders/1TzrLLGGUL38yIt5wSvSO4MUmN1KgDojz?usp=sharing)
 
 ---
 
