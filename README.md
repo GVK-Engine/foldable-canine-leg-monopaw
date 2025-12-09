@@ -40,11 +40,11 @@ The main goals are:
 
 
 - 📄 **Final Report:** `REPORT_LINK_HERE`  
-- 🖼️ **Final Presentation Slides:** `SLIDES_LINK_HERE`   
-- 📐 **DXF Geometry (Leg + Cart):** `DXF_FILES_LINK_HERE`    
-- 📊 **Results – Plots & Graphs:** `RESULTS_IMAGES_FOLDER_LINK_HERE`  
-- 🤖 **Prototype Photos:** `PROTOTYPE_IMAGES_FOLDER_LINK_HERE`  
-- 🎥 **Demo Video(s):** `DEMO_VIDEO_LINK_HERE`  
+- 🖼️ **Final Presentation Slides:** `https://docs.google.com/presentation/d/1pMKry9zL3wVUV_Ld6DZ8tjCflVTVhPLoqp3WUJ9W67Y/edit?usp=sharing`   
+- 📐 **DXF Geometry (Leg + Cart):** `https://drive.google.com/file/d/1fpy-IeiIvQU_QDXmIn9awjKsmJiABsrh/view?usp=drive_link`    
+- 📊 **Results – Plots & Graphs:** `https://drive.google.com/drive/folders/1Jsp6yqqxeOgSJ9IucUhM0W4xEi8tRZYP?usp=drive_link`  
+- 🤖 **Prototype Photos:** `https://drive.google.com/drive/folders/1aBIUWjvPDlWAlErf96tD8eg0cyjrpQ81?usp=sharing`  
+- 🎥 **Demo Video(s):** `https://drive.google.com/drive/folders/1TzrLLGGUL38yIt5wSvSO4MUmN1KgDojz?usp=sharing`  
 
 ---
 
@@ -60,12 +60,12 @@ MonoPaw-Canine-Gait-Robot/
 │   └── MonoPaw_Presentation.pdf        # link: SLIDES_LINK_HERE
 
 ├── cad/
-│   ├── leg_layer_rigid.dxf             # part of: DXF_FILES_LINK_HERE
+│   ├── leg_layer_rigid.dxf             # (https://drive.google.com/file/d/1fpy-IeiIvQU_QDXmIn9awjKsmJiABsrh/view?usp=drive_link)
 │   ├── leg_layer_flex.dxf
 │   ├── leg_layer_adhesive.dxf
 │   └── cart_panels.dxf
 
 
 └── media/
-    ├── images/                         # link: RESULTS_IMAGES_FOLDER_LINK_HERE
-    └── videos/                         # link: DEMO_VIDEO_FOLDER_LINK_HERE
+    ├── images/                         # https://drive.google.com/drive/folders/1Jsp6yqqxeOgSJ9IucUhM0W4xEi8tRZYP?usp=drive_link
+    └── videos/                         # https://drive.google.com/drive/folders/1aBIUWjvPDlWAlErf96tD8eg0cyjrpQ81?usp=sharing
