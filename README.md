@@ -1,31 +1,71 @@
-# MonoPaw: A Single-Leg Canine Gait Robot 🐾
-
-MonoPaw is a foldable-robotics inspired **single-leg, canine-gait robot**.
-A 5-bar leg mechanism is mounted on a lightweight cart, driven by DC/servo
-actuators and controlled by an ESP32. The goal is to study how link lengths
-and joint phase offsets affect **foot kinematics and energy use**, as a
-reduced-order model of a quadruped.
-
----
-
-## Project Goals
-
-- Build a **low-cost, quickly manufacturable** bio-inspired leg using
-  5-layer laminate construction.
-- Investigate how **link geometry and phase offset** influence foot
-  velocity profiles and gait quality.
-- Create an easy-to-reproduce **teaching platform** for legged locomotion
-  and gait analysis.
+# 🐾 MonoPaw – Single-Leg Canine Gait Robot  
+**Course:** Foldable Robotics (RAS 598)  
+**Team Members:** Vamshikrishna Gadde, Tirth Kamdar
+**Institution:** Arizona State University 
+![Robot Type](https://img.shields.io/badge/Robot-Single_Leg_Canine-orange)
+![Domain](https://img.shields.io/badge/Domain-Legged_Locomotion-brightgreen)
+![Fabrication](https://img.shields.io/badge/Fabrication-Foldable_Robotics-yellow)
+![Simulation](https://img.shields.io/badge/Simulation-MATLAB_/_Simulink-blue)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
-## Repository Structure
+## 📘 Overview
+
+**MonoPaw** is a **single-leg, canine-inspired planar gait robot**.
+
+- Uses a **5-bar leg mechanism** attached to a lightweight cart.
+- Built using **5-layer laminate foldable manufacturing**.
+- Inspired by the sagittal-plane motion of a **dog leg** (*Canis lupus familiaris*).
+- Designed to be:
+  - **Low-cost**
+  - **Easy to fabricate**
+  - **Reusable** as a teaching and research platform.
+
+The main goals are:
+
+- To study how **link lengths** and **phase offsets between joints** affect:
+  - Foot trajectory  
+  - Foot velocity  
+  - Qualitative stability and motion smoothness  
+- To provide a **repeatable prototype** for quadruped gait research and classroom demos.
+
+📄 **Full documentation:**
+
+- Final Report: `REPORT_LINK_HERE`  
+- Presentation Slides: `SLIDES_LINK_HERE`  
+
+
+## 🔗 Quick Links
+
+
+- 📄 **Final Report:** `REPORT_LINK_HERE`  
+- 🖼️ **Final Presentation Slides:** `SLIDES_LINK_HERE`   
+- 📐 **DXF Geometry (Leg + Cart):** `DXF_FILES_LINK_HERE`    
+- 📊 **Results – Plots & Graphs:** `RESULTS_IMAGES_FOLDER_LINK_HERE`  
+- 🤖 **Prototype Photos:** `PROTOTYPE_IMAGES_FOLDER_LINK_HERE`  
+- 🎥 **Demo Video(s):** `DEMO_VIDEO_LINK_HERE`  
+
+---
+
+## 🧩 Repository Structure
 
 ```text
-sim/            – Simulation models and analysis scripts
-firmware/       – ESP32 / microcontroller code for gait control
-cad/            – DXF and CAD files for leg and cart
-hardware/       – Assembly instructions and bill of materials
-docs/           – Final report and presentation slides
-media/          – Images and video clips of the prototype
-old_versions/   – Earlier project scope (2-leg design) for reference
+MonoPaw-Canine-Gait-Robot/
+├── README.md
+├── LICENSE
+
+├── docs/
+│   ├── MonoPaw_Final_Report.pdf        # link: REPORT_LINK_HERE
+│   └── MonoPaw_Presentation.pdf        # link: SLIDES_LINK_HERE
+
+├── cad/
+│   ├── leg_layer_rigid.dxf             # part of: DXF_FILES_LINK_HERE
+│   ├── leg_layer_flex.dxf
+│   ├── leg_layer_adhesive.dxf
+│   └── cart_panels.dxf
+
+
+└── media/
+    ├── images/                         # link: RESULTS_IMAGES_FOLDER_LINK_HERE
+    └── videos/                         # link: DEMO_VIDEO_FOLDER_LINK_HERE
